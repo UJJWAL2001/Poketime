@@ -1,6 +1,6 @@
 # React-Redux App
 
-A basic bloging app
+A basic blogging app
 
 ## Available Scripts
 
