@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pokitimes/static/css/main.aa1e0896.chunk.css",
-    "main.js": "/pokitimes/static/js/main.8bf45932.chunk.js",
-    "main.js.map": "/pokitimes/static/js/main.8bf45932.chunk.js.map",
+    "main.js": "/pokitimes/static/js/main.bc147e36.chunk.js",
+    "main.js.map": "/pokitimes/static/js/main.bc147e36.chunk.js.map",
     "runtime-main.js": "/pokitimes/static/js/runtime-main.cbf5d920.js",
     "runtime-main.js.map": "/pokitimes/static/js/runtime-main.cbf5d920.js.map",
-    "static/js/2.725edb91.chunk.js": "/pokitimes/static/js/2.725edb91.chunk.js",
-    "static/js/2.725edb91.chunk.js.map": "/pokitimes/static/js/2.725edb91.chunk.js.map",
+    "static/js/2.ffd45cd9.chunk.js": "/pokitimes/static/js/2.ffd45cd9.chunk.js",
+    "static/js/2.ffd45cd9.chunk.js.map": "/pokitimes/static/js/2.ffd45cd9.chunk.js.map",
     "index.html": "/pokitimes/index.html",
     "static/css/main.aa1e0896.chunk.css.map": "/pokitimes/static/css/main.aa1e0896.chunk.css.map",
-    "static/js/2.725edb91.chunk.js.LICENSE.txt": "/pokitimes/static/js/2.725edb91.chunk.js.LICENSE.txt",
+    "static/js/2.ffd45cd9.chunk.js.LICENSE.txt": "/pokitimes/static/js/2.ffd45cd9.chunk.js.LICENSE.txt",
     "static/media/pokeball.05e5662d.png": "/pokitimes/static/media/pokeball.05e5662d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cbf5d920.js",
-    "static/js/2.725edb91.chunk.js",
+    "static/js/2.ffd45cd9.chunk.js",
     "static/css/main.aa1e0896.chunk.css",
-    "static/js/main.8bf45932.chunk.js"
+    "static/js/main.bc147e36.chunk.js"
   ]
 }
